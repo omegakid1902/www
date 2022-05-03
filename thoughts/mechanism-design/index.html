@@ -295,7 +295,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -409,7 +409,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -443,7 +443,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/seed/">Seed</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/seed/">Seed</a></li>
     
 </ul>
 
@@ -489,7 +489,7 @@ if (!doNotTrack) {
 
 
 <p><em>Distributed Algorithmic Mechanism Design: Recent Results and Future Directions</em>. Joan Feigenbaum and Scott Shenker</p>
-<p>Mechanism design asks how one can design systems so that agents’ selfish behavior results in the desired system-wide goals (similar to <a href="/thoughts/incentives" rel="noopener" class="internal-link" data-src="/thoughts/incentives">incentive</a> design)</p>
+<p>Mechanism design asks how one can design systems so that agents’ selfish behavior results in the desired system-wide goals (similar to <a href="/www/thoughts/incentives" rel="noopener" class="internal-link" data-src="/www/thoughts/incentives">incentive</a> design)</p>
 <p>The mechanism designer’s task is to find a formula for the payments that causes agents to be no worse off by revealing their true costs than they would be by lying about their costs</p>
 <p>Mechanisms in which agents are asked to directly reveal their utility functions are call direct mechanisms</p>
 <p>A <em>dominant strategy</em> is one where agents only choose strategies that regardless of how other agents play, never result in lower payoffs than any other strategy.</p>
@@ -533,7 +533,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/mechanism-design"
+  const curPage = "/www/thoughts/mechanism-design"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -668,7 +668,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

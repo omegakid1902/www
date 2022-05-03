@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,7 +444,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/seed/">Seed</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/seed/">Seed</a></li>
     
 </ul>
 
@@ -541,7 +541,7 @@ if (!doNotTrack) {
 <p>
 
 <a href="https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf" rel="noopener">Source</a></p>
-<p>Valve is a company is one that I respect a lot for the agency they give their employees. Feels very much like a <a href="/thoughts/metalabel" rel="noopener" class="internal-link" data-src="/thoughts/metalabel">metalabel</a> where you have a bunch of highly agentic people working on things they wanna work on rather than a company.</p>
+<p>Valve is a company is one that I respect a lot for the agency they give their employees. Feels very much like a <a href="/www/thoughts/metalabel" rel="noopener" class="internal-link" data-src="/www/thoughts/metalabel">metalabel</a> where you have a bunch of highly agentic people working on things they wanna work on rather than a company.</p>
 <p>TLDR; hire well</p>
 <blockquote>
 <p>This book is an abbreviated encapsulation of our guiding principles. As Valve continues to grow, we hope that these principles will serve each new person joining our ranks.</p>
@@ -577,7 +577,7 @@ if (!doNotTrack) {
 <blockquote>
 <p>Lots of people at Valve want and need to know what you care about, what you’re good at, what you’re worried about, what you’ve got experience with, and so on. And the way to get the word out is to start telling people all of those things.</p>
 </blockquote>
-<p>People first <a href="/thoughts/friction" rel="noopener" class="internal-link" data-src="/thoughts/friction">friction-ful</a> onboarding!</p>
+<p>People first <a href="/www/thoughts/friction" rel="noopener" class="internal-link" data-src="/www/thoughts/friction">friction-ful</a> onboarding!</p>
 <a href="#structure"><h3 id="structure"><span class="hanchor" ariaLabel="Anchor"># </span>Structure</h3></a>
 <ol>
 <li>Team leads
@@ -709,7 +709,7 @@ a broad set of valuable things—the top of the T) and also experts (among the b
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/Valve-Handbook"
+  const curPage = "/www/thoughts/Valve-Handbook"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -844,7 +844,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

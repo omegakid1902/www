@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,7 +444,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/sapling/">Sapling</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/sapling/">Sapling</a></li>
     
 </ul>
 
@@ -550,7 +550,7 @@ if (!doNotTrack) {
 <blockquote>
 <p>It is not a startup, nor an organization with a mission statement, nor a non-profit, nor a consultancy&hellip; Our calls are space we hold in which we invite one other to explore and create what wants to be built at the intersection of all our interests and diverse perspectives and past experiences. <strong>A squad is a collective identity in which I can participate to create something more intricate, comprehensive, and wonderful than with just myself.</strong></p>
 </blockquote>
-<p>It’s <a href="/thoughts/trust" rel="noopener" class="internal-link" data-src="/thoughts/trust">trusting</a> everyone else in the group is committed to upholding a high-openness, high-trust, <a href="/thoughts/play" rel="noopener" class="internal-link" data-src="/thoughts/play">playful</a> mode of co-creating and exploration. It’s having the confidence that whatever comes up – we will make space for the collective group wisdom to work through it and come out on the other end stronger, together.</p>
+<p>It’s <a href="/www/thoughts/trust" rel="noopener" class="internal-link" data-src="/www/thoughts/trust">trusting</a> everyone else in the group is committed to upholding a high-openness, high-trust, <a href="/www/thoughts/play" rel="noopener" class="internal-link" data-src="/www/thoughts/play">playful</a> mode of co-creating and exploration. It’s having the confidence that whatever comes up – we will make space for the collective group wisdom to work through it and come out on the other end stronger, together.</p>
 <p>Takeaways</p>
 <ul>
 <li>Shared knowledge graph tooling is a common pain point and one no one has solved well</li>
@@ -647,7 +647,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/tribe-flourishing"
+  const curPage = "/www/thoughts/tribe-flourishing"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -782,7 +782,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

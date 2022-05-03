@@ -295,7 +295,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -409,7 +409,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -443,7 +443,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/seed/">Seed</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/seed/">Seed</a></li>
     
 </ul>
 
@@ -608,9 +608,9 @@ if (!doNotTrack) {
 <a href="/thoughts/game-design" rel="noopener" class="internal-link" data-src="/thoughts/game-design">game design</a>, 
 
 
-<a href="/thoughts/The-Grasshopper" rel="noopener" class="internal-link" data-src="/thoughts/The-Grasshopper">The Grasshopper</a>, <a href="/thoughts/Moving-Castles" rel="noopener" class="internal-link" data-src="/thoughts/Moving-Castles">Moving Castles</a></p>
-<p>Games are interesting when the underlying rules are simple (see: <a class="internal-link broken">Gall&rsquo;s Law</a>, low <a href="/thoughts/complexity" rel="noopener" class="internal-link" data-src="/thoughts/complexity">Kolmogorov Complexity</a>) but exhibit complex behaviour.</p>
-<p>The more I think about it the more I think I eventually want to build games. All of my <a href="/thoughts/peer-to-peer" rel="noopener" class="internal-link" data-src="/thoughts/peer-to-peer">p2p</a> infrastructure work now is to build up the tools possible to explore that space of potential games. Games as explorations in <a href="/thoughts/interaction-design" rel="noopener" class="internal-link" data-src="/thoughts/interaction-design">interaction design</a>.</p>
+<a href="/thoughts/The-Grasshopper" rel="noopener" class="internal-link" data-src="/thoughts/The-Grasshopper">The Grasshopper</a>, <a href="/www/thoughts/Moving-Castles" rel="noopener" class="internal-link" data-src="/www/thoughts/Moving-Castles">Moving Castles</a></p>
+<p>Games are interesting when the underlying rules are simple (see: <a class="internal-link broken">Gall&rsquo;s Law</a>, low <a href="/www/thoughts/complexity" rel="noopener" class="internal-link" data-src="/www/thoughts/complexity">Kolmogorov Complexity</a>) but exhibit complex behaviour.</p>
+<p>The more I think about it the more I think I eventually want to build games. All of my <a href="/www/thoughts/peer-to-peer" rel="noopener" class="internal-link" data-src="/www/thoughts/peer-to-peer">p2p</a> infrastructure work now is to build up the tools possible to explore that space of potential games. Games as explorations in <a href="/www/thoughts/interaction-design" rel="noopener" class="internal-link" data-src="/www/thoughts/interaction-design">interaction design</a>.</p>
 <a href="#a-philosophy-of-games"><h2 id="a-philosophy-of-games"><span class="hanchor" ariaLabel="Anchor"># </span>A Philosophy of Games</h2></a>
 <p>
 
@@ -754,7 +754,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/games"
+  const curPage = "/www/thoughts/games"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -889,7 +889,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

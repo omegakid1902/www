@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,9 +444,9 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/fruit/">Fruit</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/fruit/">Fruit</a></li>
     
-    <li><a href="https://jzhao.xyz/tags/personal/">Personal</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/personal/">Personal</a></li>
     
 </ul>
 
@@ -571,7 +571,7 @@ if (!doNotTrack) {
 <a href="https://twitter.com/_jzhao/status/1328399991950307328" rel="noopener">Tweet.</a></li>
 </ul>
 <a href="#goal-setting"><h2 id="goal-setting"><span class="hanchor" ariaLabel="Anchor"># </span>Goal setting</h2></a>
-<p>When <a href="/thoughts/writing" rel="noopener" class="internal-link" data-src="/thoughts/writing">writing</a> up the first few drafts for this post, I realized that just having goals with cold hard numbers on them without any motivating reason feels very empty. I&rsquo;m not setting these goals just to achieve some number, but rather to enjoy the act of doing it or to develop a habit. I had a conversation with 
+<p>When <a href="/www/thoughts/writing" rel="noopener" class="internal-link" data-src="/www/thoughts/writing">writing</a> up the first few drafts for this post, I realized that just having goals with cold hard numbers on them without any motivating reason feels very empty. I&rsquo;m not setting these goals just to achieve some number, but rather to enjoy the act of doing it or to develop a habit. I had a conversation with 
 
 <a href="https://twitter.com/AlcaEmre" rel="noopener">Emre</a> about this and he brought up Reversal Theory as a way to understand our motivations and goals. In particular, one of the four domains of Reversal Theory is the means-ends domain. Motivations in this domain lie somewhere on the telic to paratelic action scale.</p>
 <p><strong>Telic Actions</strong> are more serious in nature, motivated by wanting to achieve something or reach a goal. This would be like writing an essay to get a good mark. Most telic actions are a means to an end rather than the actual end themselves.</p>
@@ -653,7 +653,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/posts/2020"
+  const curPage = "/www/posts/2020"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -788,7 +788,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

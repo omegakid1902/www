@@ -295,7 +295,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -409,7 +409,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -443,9 +443,9 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/evergreen/">Evergreen</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/evergreen/">Evergreen</a></li>
     
-    <li><a href="https://jzhao.xyz/tags/technical/">Technical</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/technical/">Technical</a></li>
     
 </ul>
 
@@ -593,7 +593,7 @@ if (!doNotTrack) {
 <a href="https://getreflect.app/" rel="noopener">Site</a>, 
 
 <a href="https://github.com/jackyzha0/reflect-chrome" rel="noopener">GitHub</a></p>
-<p>reflect is a browser extension with 800+ active users focused around asking users to reflect before visiting distracting sites, helping to reduce mindless scrolling while still being able to get work done. During closed-beta, we created a Go service that logged user intents to a Cloud SQL database and did intent classification by serving a basic Flask API. We then trained an LSTM network in Keras on the closed-beta data and augmented it using <a href="/thoughts/NLP" rel="noopener" class="internal-link" data-src="/thoughts/NLP">NLP</a> data augmentation techniques, reaching ~86% classification accuracy. Finally, the model was ported to Tensorflow.js where it runs in-browser within the extension which is written in Typescript.</p>
+<p>reflect is a browser extension with 800+ active users focused around asking users to reflect before visiting distracting sites, helping to reduce mindless scrolling while still being able to get work done. During closed-beta, we created a Go service that logged user intents to a Cloud SQL database and did intent classification by serving a basic Flask API. We then trained an LSTM network in Keras on the closed-beta data and augmented it using <a href="/www/thoughts/NLP" rel="noopener" class="internal-link" data-src="/www/thoughts/NLP">NLP</a> data augmentation techniques, reaching ~86% classification accuracy. Finally, the model was ported to Tensorflow.js where it runs in-browser within the extension which is written in Typescript.</p>
 <p>Built with: Kubernetes, Docker, GKE, Cloud SQL, Keras, Tensorflow.js, Flask, CircleCI, TypeScript, Python, Go</p>
 <a href="#nanodb----a-simple-easy-and-debuggable-document-database"><h2 id="nanodb----a-simple-easy-and-debuggable-document-database"><span class="hanchor" ariaLabel="Anchor"># </span>nanoDB &ndash; a simple, easy, and debuggable document database</h2></a>
 <p>
@@ -684,7 +684,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/Projects"
+  const curPage = "/www/thoughts/Projects"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -819,7 +819,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

@@ -2,516 +2,516 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sapling on </title>
-    <link>https://jzhao.xyz/tags/sapling/</link>
+    <link>https://omegakid1902.github.io/www/tags/sapling/</link>
     <description>Recent content in sapling on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jzhao.xyz/tags/sapling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://omegakid1902.github.io/www/tags/sapling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rhizome Specification</title>
-      <link>https://jzhao.xyz/thoughts/Rhizome-Specification/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Rhizome-Specification/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Rhizome-Specification/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Rhizome-Specification/</guid>
       <description>misc notes
  should provide key components  logical pipes -&amp;gt; connectivity between nodes host bootstrapping -&amp;gt; akin to DHCP, set of protocols supported, basic info and about where to connect for discovery   petnames rather than global connection table?</description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>https://jzhao.xyz/thoughts/writing/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/writing/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/writing/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/writing/</guid>
       <description>Why write?
 Writing as crystallized thought, a way of expressing the labyrinth of interconnected, messy, and many time incoherent ideas in my mind.</description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>https://jzhao.xyz/thoughts/Internet/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Internet/</link>
       <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Internet/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Internet/</guid>
       <description>Niche at scale  The Internet allows you to scale any niche obsession</description>
     </item>
     
     <item>
       <title>Functional Programming</title>
-      <link>https://jzhao.xyz/thoughts/functional-programming/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/functional-programming/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/functional-programming/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/functional-programming/</guid>
       <description>Syntax Quirks  $ :: (a -&amp;gt; b) -&amp;gt; a -&amp;gt; b is function application (adds implicit parentheses and makes it right associative instead of left associative)  Normally, sort &amp;quot;abc&amp;quot; ++ &amp;quot;def&amp;quot; would be interpreted as (sort &amp;quot;abc&amp;quot;) ++ &amp;quot;def&amp;quot; If we use the $ operator, we can do sort $ &amp;quot;abc&amp;quot; ++ &amp;quot;def&amp;quot; which is interpreted as sort (&amp;quot;abc&amp;quot; ++ &amp;quot;def&amp;quot;) as intended.</description>
     </item>
     
     <item>
       <title>Cozy software</title>
-      <link>https://jzhao.xyz/thoughts/cozy-software/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/cozy-software/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/cozy-software/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/cozy-software/</guid>
       <description>Cozy eternal beta test mode
  re: digital mindfulness! Not everything needs to be built at scale &amp;ndash; sometimes it can just be for family and friends :)) Normalize creating playful and non- instrumental technology</description>
     </item>
     
     <item>
       <title>People as lighthouses</title>
-      <link>https://jzhao.xyz/thoughts/people-as-lighthouses/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/people-as-lighthouses/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/people-as-lighthouses/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/people-as-lighthouses/</guid>
       <description>written in a note once
 Similar to A love letter to virtual community care by Theresa Gao</description>
     </item>
     
     <item>
       <title>Software Principles</title>
-      <link>https://jzhao.xyz/thoughts/software-principles/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/software-principles/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/software-principles/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/software-principles/</guid>
       <description>A Pattern Language for developing software
  Inspired by Urbit Precepts</description>
     </item>
     
     <item>
       <title>Self-knowledge</title>
-      <link>https://jzhao.xyz/thoughts/self-knowledge/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/self-knowledge/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/self-knowledge/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/self-knowledge/</guid>
       <description>Reflexivity vs Reflectivity1 Self-illumination/reflexivity
  Every conscious experience is directly revealed to itself.</description>
     </item>
     
     <item>
       <title>Soulbound</title>
-      <link>https://jzhao.xyz/thoughts/soulbound/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/soulbound/</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/soulbound/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/soulbound/</guid>
       <description>Source: Soulbound by Vitalik
 Non-transferability  A soulbound item, once picked up, cannot be transferred or sold to another player.</description>
     </item>
     
     <item>
       <title>Knowledge Argument</title>
-      <link>https://jzhao.xyz/thoughts/Knowledge-Argument/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Knowledge-Argument/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Knowledge-Argument/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Knowledge-Argument/</guid>
       <description>Frank Jackson&amp;rsquo;s Knowledge Argument1  Mary is confined to a black-and-white room, is educated through black-and-white books and through lectures relayed on black-and-white TV.</description>
     </item>
     
     <item>
       <title>Context</title>
-      <link>https://jzhao.xyz/thoughts/context/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/context/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/context/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/context/</guid>
       <description>Content only has meaning if it has context
   emptiness/dependent-origination: does this connect to context as potentially an epistemic instrument?</description>
     </item>
     
     <item>
       <title>Art</title>
-      <link>https://jzhao.xyz/thoughts/art/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/art/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/art/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/art/</guid>
       <description>Source: An artist in Crypto by Wendi Yan and in discussion with Wendi</description>
     </item>
     
     <item>
       <title>Internet Computing</title>
-      <link>https://jzhao.xyz/thoughts/internet-computing/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/internet-computing/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/internet-computing/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/internet-computing/</guid>
       <description>Notes for CPSC 317 (see all notes)
 The Internet is a network of networks.</description>
     </item>
     
     <item>
       <title>Philosophy of Mind</title>
-      <link>https://jzhao.xyz/thoughts/philosophy-of-mind/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/philosophy-of-mind/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/philosophy-of-mind/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/philosophy-of-mind/</guid>
       <description>Notes for Philosophy 451A - Philosophy of the Mind with Professor Evan Thompson (see all notes).</description>
     </item>
     
     <item>
       <title>Web3 Critique</title>
-      <link>https://jzhao.xyz/thoughts/web3-critique/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/web3-critique/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/web3-critique/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/web3-critique/</guid>
       <description>Really good piece by Moxie on web3.
  Web3 lacks infrastructure  By definition, infrastructure does not need to be rebuilt every time they are used.</description>
     </item>
     
     <item>
       <title>Aperture Problem</title>
-      <link>https://jzhao.xyz/thoughts/aperture-problem/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/aperture-problem/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/aperture-problem/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/aperture-problem/</guid>
       <description>Aperture Problem in Computer Vision  Without distinct features to track, the true visual motion is ambiguous Locally, one can compute only the component of the visual motion in the direction perpendicular to the contour  In relation to the Internet: our browsing is also very static and in a small window.</description>
     </item>
     
     <item>
       <title>Information Scales</title>
-      <link>https://jzhao.xyz/thoughts/information-scales/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/information-scales/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/information-scales/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/information-scales/</guid>
       <description>Creating a browsable store of knowledge that provides something useful at all distance scales (e.</description>
     </item>
     
     <item>
       <title>Mangrove Theory of the Internet</title>
-      <link>https://jzhao.xyz/thoughts/Mangrove-Theory-of-the-Internet/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Mangrove-Theory-of-the-Internet/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Mangrove-Theory-of-the-Internet/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Mangrove-Theory-of-the-Internet/</guid>
       <description>Tools for Communication  Source: vgr on Twitter
 Related: tools for digital commons</description>
     </item>
     
     <item>
       <title>Censorship</title>
-      <link>https://jzhao.xyz/thoughts/censorship/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/censorship/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/censorship/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/censorship/</guid>
       <description>Source: Moderation in Infrastructure
 How do we draw the line between an end product and infrastructure?</description>
     </item>
     
     <item>
       <title>Conceptual models</title>
-      <link>https://jzhao.xyz/thoughts/conceptual-model/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/conceptual-model/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/conceptual-model/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/conceptual-model/</guid>
       <description>Conceptual models are explanations (usually highly simplified) of how something works.</description>
     </item>
     
     <item>
       <title>Degraded Blockchain problem</title>
-      <link>https://jzhao.xyz/thoughts/Degraded-Blockchain-problem/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Degraded-Blockchain-problem/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Degraded-Blockchain-problem/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Degraded-Blockchain-problem/</guid>
       <description>One thing that I still don&amp;rsquo;t understand about blockchain is the &amp;rsquo;trustless&amp;rsquo; aspect of blockchains.</description>
     </item>
     
     <item>
       <title>Hedonic Treadmill</title>
-      <link>https://jzhao.xyz/thoughts/hedonic-treadmill/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/hedonic-treadmill/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/hedonic-treadmill/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/hedonic-treadmill/</guid>
       <description>What does it mean to &amp;lsquo;improve&amp;rsquo; if all we do is take the new baseline as just that &amp;ndash; a baseline?</description>
     </item>
     
     <item>
       <title>Hermeneutical injustice</title>
-      <link>https://jzhao.xyz/thoughts/hermeneutical-injustice/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/hermeneutical-injustice/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/hermeneutical-injustice/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/hermeneutical-injustice/</guid>
       <description>The powerful tend to have appropriate understandings of their experiences ready to draw on as they make sense of their social experiences, whereas the powerless are more likely to find themselves having some social experiences through a glass darkly, with a best ill-fitting meanings to draw on in the effort to render them intelligible</description>
     </item>
     
     <item>
       <title>Information Systems</title>
-      <link>https://jzhao.xyz/thoughts/information-system/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/information-system/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/information-system/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/information-system/</guid>
       <description>Source: Foundations of Information by Amy J. Ko
 Information Systems are processes that organize people, technology, and data to allow people to create, store, manipulate, distribute, and access information.</description>
     </item>
     
     <item>
       <title>Instrumentalism</title>
-      <link>https://jzhao.xyz/thoughts/instrumentalism/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/instrumentalism/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/instrumentalism/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/instrumentalism/</guid>
       <description>Source: Value Beyond Instrumentalization by Jasmine Wang
 Reminiscent of the move fast and break things Silicon Valley ethic.</description>
     </item>
     
     <item>
       <title>Nozick&#39;s Experience Machine</title>
-      <link>https://jzhao.xyz/thoughts/Nozicks-Experience-Machine/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Nozicks-Experience-Machine/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Nozicks-Experience-Machine/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Nozicks-Experience-Machine/</guid>
       <description>Experience machine  suppose there was a machine that would give you any experience you desired would you plug in?</description>
     </item>
     
     <item>
       <title>Potemkin villages</title>
-      <link>https://jzhao.xyz/thoughts/potemkin-village/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/potemkin-village/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/potemkin-village/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/potemkin-village/</guid>
       <description>The &amp;ldquo;potemkin village that works well on naturally occurring data, but is exposed as fake when one visits points in space that do not have high probability&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Prestige</title>
-      <link>https://jzhao.xyz/thoughts/prestige/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/prestige/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/prestige/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/prestige/</guid>
       <description>Source: The Prestige Trap by Wes De Silvestro
 Is this why so many people want to join &amp;lsquo;prestigious&amp;rsquo; places to work like big tech or consulting?</description>
     </item>
     
     <item>
       <title>Utopia</title>
-      <link>https://jzhao.xyz/thoughts/utopia/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/utopia/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/utopia/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/utopia/</guid>
       <description>What is a utopia? Utilitarian perspective: a society where everyone can fully maximize their utility function</description>
     </item>
     
     <item>
       <title>Broken world thinking</title>
-      <link>https://jzhao.xyz/thoughts/broken-world-thinking/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/broken-world-thinking/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/broken-world-thinking/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/broken-world-thinking/</guid>
       <description>&amp;lsquo;Broken world thinking&amp;rsquo; -&amp;gt; focus on constant process of entropy and undoing of work and what we can do to slow/halt this process rather than introducing new things.</description>
     </item>
     
     <item>
       <title>Cancel Culture</title>
-      <link>https://jzhao.xyz/thoughts/cancel-culture/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/cancel-culture/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/cancel-culture/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/cancel-culture/</guid>
       <description>Cancel culture and healthy debate i think being inclusive and mindful of the opinions is really important but there also needs to be a balance between the weight of creating an unsafe place for ideas vs unsafe places for people</description>
     </item>
     
     <item>
       <title>Carbon Credits</title>
-      <link>https://jzhao.xyz/thoughts/carbon-credits/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/carbon-credits/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/carbon-credits/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/carbon-credits/</guid>
       <description>Source: An Even More Inconvenient Truth from ProPublica
 Can we create &amp;lsquo;credits&amp;rsquo; that companies can buy to offset their emissions by &amp;lsquo;proving&amp;rsquo; that a forest is sequestering a certain amount of carbon?</description>
     </item>
     
     <item>
       <title>Desktop Metaphor</title>
-      <link>https://jzhao.xyz/thoughts/desktop-metaphor/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/desktop-metaphor/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/desktop-metaphor/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/desktop-metaphor/</guid>
       <description>Beyond the Desktop Metaphor An interface that intentionally exploits the vulnerability of human beings for financial or otherwise selfish gain is inhumane and also despicable.</description>
     </item>
     
     <item>
       <title>Dunbar&#39;s Number</title>
-      <link>https://jzhao.xyz/thoughts/Dunbars-Number/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Dunbars-Number/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Dunbars-Number/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Dunbars-Number/</guid>
       <description>Source: The Limits of Friendship by Maria Konnikova
  There&amp;rsquo;s only so big a social group can get before it decays into smaller ones.</description>
     </item>
     
     <item>
       <title>Generational Learning</title>
-      <link>https://jzhao.xyz/thoughts/generational-learning/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/generational-learning/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/generational-learning/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/generational-learning/</guid>
       <description>Related: Theory of Niche Construction and Extended Mind Hypothesis
 Intergenerational social learning  intergenerational transmission of ecological and technical expertise parental acts bias the environment explored by trial and error learning trials are guided — social/observational learning  partially complete and failed exemplars of the target artefact aid of tools that initially chosen by others access to raw materials in various stages of preparation   natural bargain  Skilled practitioners ease their own burdens by having apprentices do low to medium skilled work.</description>
     </item>
     
     <item>
       <title>Governance</title>
-      <link>https://jzhao.xyz/thoughts/governance/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/governance/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/governance/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/governance/</guid>
       <description>Related: Moderation
 Community Governance  bottom-up emergent properties vs top-down governance homeostasis of communities  mix of internal and external influence secluded vs public: digital commons conforming to labels self-fulfilling prophecies   sanctity of natural interactions  monetizing human interaction (ondeck) how do we screen for value alignment?</description>
     </item>
     
     <item>
       <title>Innovation</title>
-      <link>https://jzhao.xyz/thoughts/innovation/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/innovation/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/innovation/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/innovation/</guid>
       <description>Innovation: the word to hide the lack of substance. A term gains popularity because it resonates with the zeitgeist, reaches buzzword status, then suffers from overexposure and cooptation.</description>
     </item>
     
     <item>
       <title>Maintenance</title>
-      <link>https://jzhao.xyz/thoughts/maintenance/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/maintenance/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/maintenance/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/maintenance/</guid>
       <description>Maintenance: the gritty upkeep work that keeps the infrastructure of the world running.</description>
     </item>
     
     <item>
       <title>Mimetic</title>
-      <link>https://jzhao.xyz/thoughts/mimetic/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/mimetic/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/mimetic/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/mimetic/</guid>
       <description>Source: Mimetic by Brian Timar
 [&amp;hellip;There was a] positive feedback loop that encouraged me to spend ever-increasing amounts of time on my work.</description>
     </item>
     
     <item>
       <title>Skyhooks</title>
-      <link>https://jzhao.xyz/thoughts/skyhooks/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/skyhooks/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/skyhooks/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/skyhooks/</guid>
       <description>We should have nondystopian science fiction &amp;ndash; there&amp;rsquo;s value in reclaiming an optimistic and hopeful future (very Reboot vibes).</description>
     </item>
     
     <item>
       <title>Theory of Niche Construction</title>
-      <link>https://jzhao.xyz/thoughts/Theory-of-Niche-Construction/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Theory-of-Niche-Construction/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Theory-of-Niche-Construction/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Theory-of-Niche-Construction/</guid>
       <description>Theory of Niche Construction  many animals intervene in their environment, shaping it in ways that improve the adaptive fit between the agent and its world such animals in part adapt to their niche, in part construct their own the niche construction perspective focuses our attention on the common features of this whole range of cases whereas the extended mind model does not  human capacities, cognitive and non-cognitive alike, turn out to depend on the fact that humans engineer their environment to support their activities   extended digestion example  some animals do the hard digestion stuff on-board, powerful jaws, large mouths, lots of time chewing we cook lmao also, we selectively breed livestock which improves the food value of domestic stock    Extended Phenotypes Concept  things animals build are part of their phenotype (physical exhibited traits that are determined genetically)  developmentally stable, as heritable and predictable in their ecological effects as other traits   e.</description>
     </item>
     
     <item>
       <title>Digital Mindfulness</title>
-      <link>https://jzhao.xyz/thoughts/digital-mindfulness/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/digital-mindfulness/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/digital-mindfulness/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/digital-mindfulness/</guid>
       <description>On methods to reclaim ourselves from the attention economy. How do we enable friction to give people the space to think and reflect?</description>
     </item>
     
     <item>
       <title>Linguistic Relativism</title>
-      <link>https://jzhao.xyz/thoughts/linguistic-relativism/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/linguistic-relativism/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/linguistic-relativism/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/linguistic-relativism/</guid>
       <description>Does language dictate how we think about the world? importance of vocabulary do we need labels and terminology to discuss things false dichotomies Sapir-Whorf hypothesis is true &amp;ndash; but the effects are far more pronounced for programming languages than for spoken languages.</description>
     </item>
     
     <item>
       <title>A Tale for the Time Being</title>
-      <link>https://jzhao.xyz/thoughts/A-Tale-for-the-Time-Being/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/A-Tale-for-the-Time-Being/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/A-Tale-for-the-Time-Being/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/A-Tale-for-the-Time-Being/</guid>
       <description>the amount of depth being slowly unravelled over time is astounding</description>
     </item>
     
     <item>
       <title>Friendship</title>
-      <link>https://jzhao.xyz/thoughts/friendship/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/friendship/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/friendship/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/friendship/</guid>
       <description>&amp;ldquo;The ultimate touchstone of friendship is not improvement, neither of the other nor of the self.</description>
     </item>
     
     <item>
       <title>NFTs</title>
-      <link>https://jzhao.xyz/thoughts/NFT/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/NFT/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/NFT/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/NFT/</guid>
       <description>Source: vgr on Magic Beans
 An NFT need not to contain something.</description>
     </item>
     
     <item>
       <title>Tribe Flourishing</title>
-      <link>https://jzhao.xyz/thoughts/tribe-flourishing/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/tribe-flourishing/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/tribe-flourishing/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/tribe-flourishing/</guid>
       <description>Related: collaborative-thinking, communities, friendship, and context-collapse
 Why are we more ourselves in small group chats than our posts?</description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>https://jzhao.xyz/thoughts/automation/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/automation/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/automation/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/automation/</guid>
       <description>Source: What Tech Futurists Get Wrong About Human Autonomy by Divya Siddarth and Kelsi Nabben</description>
     </item>
     
     <item>
       <title>Interopability</title>
-      <link>https://jzhao.xyz/thoughts/interoperability/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/interoperability/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/interoperability/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/interoperability/</guid>
       <description>Portability implies switching platforms, but true interoperability is platform-agnostic.</description>
     </item>
     
     <item>
       <title>Terminology</title>
-      <link>https://jzhao.xyz/thoughts/terminology/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/terminology/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/terminology/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/terminology/</guid>
       <description>Orwell on Language  Source: Orwell on Politics and the English Language</description>
     </item>
     
     <item>
       <title>Interact: Hackathon Culture &#43; Play</title>
-      <link>https://jzhao.xyz/thoughts/Interact-Circle-W21/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Interact-Circle-W21/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Interact-Circle-W21/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Interact-Circle-W21/</guid>
       <description>View artifact. Contains writings on play and new-words/ terminology</description>
     </item>
     
     <item>
       <title>Bandwidth</title>
-      <link>https://jzhao.xyz/thoughts/bandwidth/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/bandwidth/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/bandwidth/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/bandwidth/</guid>
       <description>When we talk together, we flatten our N-dimensional thoughts into 1D linear narratives, in order to fit them through the 1D bottleneck of words.</description>
     </item>
     
     <item>
       <title>Bias</title>
-      <link>https://jzhao.xyz/thoughts/bias/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/bias/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/bias/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/bias/</guid>
       <description>More detailed post on Bias in AI. Related readings: Design Justice, To Live in their Utopia, Social Bias in Information Retrieval, Algorithms of Oppression</description>
     </item>
     
     <item>
       <title>Tools for Thought</title>
-      <link>https://jzhao.xyz/thoughts/tools-for-thought/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/tools-for-thought/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/tools-for-thought/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/tools-for-thought/</guid>
       <description>Related: Extended Mind Hypothesis, Networked thought, interaction design
 Questions:
  How can we create tools that aid our thinking?</description>
@@ -519,680 +519,680 @@ Questions:
     
     <item>
       <title>Game Design</title>
-      <link>https://jzhao.xyz/thoughts/game-design/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/game-design/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/game-design/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/game-design/</guid>
       <description>Related: games
 Game Design and Teaching  Source: Game designers vs.</description>
     </item>
     
     <item>
       <title>Positive Sum</title>
-      <link>https://jzhao.xyz/thoughts/positive-sum/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/positive-sum/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/positive-sum/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/positive-sum/</guid>
       <description>As opposed to zero sum
  Positive Sum Worlds: Remaking Public Goods in Other Internetand Gitcoin on Seeking a New Kind of Public Good: Open Call for Proposals</description>
     </item>
     
     <item>
       <title>Zero-sum</title>
-      <link>https://jzhao.xyz/thoughts/zero-sum/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/zero-sum/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/zero-sum/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/zero-sum/</guid>
       <description>As opposed to positive sum
 Group Limits In a local context, relationships may be positive sum.</description>
     </item>
     
     <item>
       <title>Fiction</title>
-      <link>https://jzhao.xyz/thoughts/fiction/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/fiction/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/fiction/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/fiction/</guid>
       <description>The future is manifested
  Shared fiction as a statement about the future instead of a statement of today.</description>
     </item>
     
     <item>
       <title>Questions</title>
-      <link>https://jzhao.xyz/thoughts/questions/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/questions/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/questions/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/questions/</guid>
       <description>Source: Asking Better Questions in Kernel
  Good questions must come from a sincere desire to learn, rather than as a veiled means of stating your own opinion.</description>
     </item>
     
     <item>
       <title>Incentives</title>
-      <link>https://jzhao.xyz/thoughts/incentives/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/incentives/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/incentives/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/incentives/</guid>
       <description>How do we motivate people? Is money effective as an incentive?</description>
     </item>
     
     <item>
       <title>Resource Interaction</title>
-      <link>https://jzhao.xyz/thoughts/resource-interaction/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/resource-interaction/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/resource-interaction/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/resource-interaction/</guid>
       <description>Interactions arise naturally from the affordances of resources or are purposefully designed into organizing systems.</description>
     </item>
     
     <item>
       <title>Selfish</title>
-      <link>https://jzhao.xyz/thoughts/selfish/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/selfish/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/selfish/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/selfish/</guid>
       <description>Are selfishness and selfcare the same thing?
  To be able to provide care, you need to take care of yourself</description>
     </item>
     
     <item>
       <title>Play</title>
-      <link>https://jzhao.xyz/thoughts/play/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/play/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/play/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/play/</guid>
       <description>Full post on play: Play to Win: A Post-Work Society</description>
     </item>
     
     <item>
       <title>Meaning</title>
-      <link>https://jzhao.xyz/thoughts/meaning/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/meaning/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/meaning/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/meaning/</guid>
       <description>If code is law, then are programmers the governors?</description>
     </item>
     
     <item>
       <title>Value</title>
-      <link>https://jzhao.xyz/thoughts/value/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/value/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/value/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/value/</guid>
       <description>Source: Kernel on Value
 Interesting approach to taking a negative-space approach to defining values: the negation of what destroys value is then what must give it value.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://jzhao.xyz/thoughts/search/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/search/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/search/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/search/</guid>
       <description>Search has co-opted the citation, vis-à-vis the hyperlink
  The post-WWII &amp;lsquo;information explosion&amp;rsquo; meant that we have a lot of info and not great means of looking through it to find what we want.</description>
     </item>
     
     <item>
       <title>Explainability</title>
-      <link>https://jzhao.xyz/thoughts/explainability/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/explainability/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/explainability/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/explainability/</guid>
       <description>European Union adopted new data-protection rules in 2016 that include a legal right to an explanation of decisions made by algorithms.</description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>https://jzhao.xyz/thoughts/blockchain/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/blockchain/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/blockchain/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/blockchain/</guid>
       <description>Source: A Primer to Web3
 The universal message bus.</description>
     </item>
     
     <item>
       <title>Money</title>
-      <link>https://jzhao.xyz/thoughts/money/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/money/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/money/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/money/</guid>
       <description>Money is a form of shared truth
  Sources: Money Language in Kernel and Shelling Out in Kernel</description>
     </item>
     
     <item>
       <title>Trust</title>
-      <link>https://jzhao.xyz/thoughts/trust/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/trust/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/trust/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/trust/</guid>
       <description>In an empire of lies, telling the truth is a revolutionary act.</description>
     </item>
     
     <item>
       <title>Black boxes</title>
-      <link>https://jzhao.xyz/thoughts/black-box/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/black-box/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/black-box/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/black-box/</guid>
       <description>See also: [[thoughts/paperclip optimizer|paperclip optimizer]]
  Scientific and technical work is made invisible by its own success.</description>
     </item>
     
     <item>
       <title>Scientific Progress</title>
-      <link>https://jzhao.xyz/thoughts/scientific-progress/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/scientific-progress/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/scientific-progress/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/scientific-progress/</guid>
       <description>Heavily attached to societal progress and the concept of defining what &amp;lsquo;forward progress&amp;rsquo; even means.</description>
     </item>
     
     <item>
       <title>Intentionality</title>
-      <link>https://jzhao.xyz/thoughts/intentionality/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/intentionality/</link>
       <pubDate>Tue, 21 Sep 2021 09:51:49 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/intentionality/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/intentionality/</guid>
       <description>intentions exhibit cognitive inertia ( self-trust) intentionality is derived  same reason why computer-generated art or AI-assisted [[thoughts/writing|writing]] would not be considered &amp;rsquo;novel&amp;rsquo; or &amp;lsquo;intelligent&amp;rsquo;.</description>
     </item>
     
     <item>
       <title>Organizing Systems</title>
-      <link>https://jzhao.xyz/thoughts/organizing-system/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/organizing-system/</link>
       <pubDate>Tue, 21 Sep 2021 09:28:57 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/organizing-system/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/organizing-system/</guid>
       <description>Organizing System: an intentionally arranged collection of resources and the interactions they support.</description>
     </item>
     
     <item>
       <title>Human Computer Interaction (HCI)</title>
-      <link>https://jzhao.xyz/thoughts/human-computer-interaction/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/human-computer-interaction/</link>
       <pubDate>Tue, 14 Sep 2021 15:38:31 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/human-computer-interaction/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/human-computer-interaction/</guid>
       <description>Better HCI is better empathy
  What even is HCI?</description>
     </item>
     
     <item>
       <title>Degrowth</title>
-      <link>https://jzhao.xyz/thoughts/degrowth/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/degrowth/</link>
       <pubDate>Tue, 07 Sep 2021 22:22:09 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/degrowth/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/degrowth/</guid>
       <description>Source: People are realizing that degrowth is bad by Noah Smith</description>
     </item>
     
     <item>
       <title>Truth</title>
-      <link>https://jzhao.xyz/thoughts/truth/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/truth/</link>
       <pubDate>Mon, 30 Aug 2021 14:45:13 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/truth/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/truth/</guid>
       <description>Is there a hard truth to anything in the universe? Can we truly know anything?</description>
     </item>
     
     <item>
       <title>Qualia</title>
-      <link>https://jzhao.xyz/thoughts/qualia/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/qualia/</link>
       <pubDate>Mon, 30 Aug 2021 14:44:31 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/qualia/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/qualia/</guid>
       <description>Qualia is the Latin plural for the singular “quale” (quality). Often known as the subjective, conscious experience, or phenomenal properties.</description>
     </item>
     
     <item>
       <title>Learning Frameworks</title>
-      <link>https://jzhao.xyz/thoughts/learning/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/learning/</link>
       <pubDate>Sun, 29 Aug 2021 20:33:55 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/learning/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/learning/</guid>
       <description>Learning as an act of becoming really good at exploring terrain &amp;ndash; Shaun Martin</description>
     </item>
     
     <item>
       <title>Knowledge Distillation &#43; Teaching</title>
-      <link>https://jzhao.xyz/thoughts/knowledge-distillation/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/knowledge-distillation/</link>
       <pubDate>Sun, 29 Aug 2021 00:20:50 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/knowledge-distillation/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/knowledge-distillation/</guid>
       <description>Source: Patterns in confusing explanations by Julia Evans
 Heavily linked with research debt.</description>
     </item>
     
     <item>
       <title>Mindfulness</title>
-      <link>https://jzhao.xyz/thoughts/mindfulness/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/mindfulness/</link>
       <pubDate>Sat, 28 Aug 2021 22:59:37 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/mindfulness/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/mindfulness/</guid>
       <description>What do I do when I am stressed or overcome with anxiety about the future?</description>
     </item>
     
     <item>
       <title>VR</title>
-      <link>https://jzhao.xyz/thoughts/vr/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/vr/</link>
       <pubDate>Tue, 24 Aug 2021 22:03:31 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/vr/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/vr/</guid>
       <description>Physical bodies perceive the senses that are input from the VR machine.</description>
     </item>
     
     <item>
       <title>Data Distributions</title>
-      <link>https://jzhao.xyz/thoughts/data-distributions/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/data-distributions/</link>
       <pubDate>Wed, 18 Aug 2021 20:19:51 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/data-distributions/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/data-distributions/</guid>
       <description>Machine Learning and AI Systems excludes the tail ends of the distributions  this is where minorities live, ends up reproducing existing systems of power (re: To live in their Utopia, Matthew Effect) synthetic/generative/federated models suck at these most interesting cases ARE outliers (esp.</description>
     </item>
     
     <item>
       <title>Consciousness</title>
-      <link>https://jzhao.xyz/thoughts/consciousness/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/consciousness/</link>
       <pubDate>Thu, 12 Aug 2021 23:54:29 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/consciousness/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/consciousness/</guid>
       <description>If $x$ is conscious, then there is an experience of what it is like to be $x$</description>
     </item>
     
     <item>
       <title>Game Theory</title>
-      <link>https://jzhao.xyz/thoughts/game-theory/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/game-theory/</link>
       <pubDate>Thu, 12 Aug 2021 10:18:31 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/game-theory/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/game-theory/</guid>
       <description>Source: The Evolution of Trust by Nicky Case
 For trust to evolve:</description>
     </item>
     
     <item>
       <title>Consensus</title>
-      <link>https://jzhao.xyz/thoughts/consensus/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/consensus/</link>
       <pubDate>Mon, 09 Aug 2021 21:41:42 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/consensus/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/consensus/</guid>
       <description>Consensus in human systems is actually usually pretty easy because of the social layer of society.</description>
     </item>
     
     <item>
       <title>Decentralization</title>
-      <link>https://jzhao.xyz/thoughts/decentralization/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/decentralization/</link>
       <pubDate>Fri, 06 Aug 2021 23:12:28 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/decentralization/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/decentralization/</guid>
       <description>Source: The Meaning of Decentralization by Vitalik Buterin
  3 Axes of Decentralizatiaon  Architectural Decentralization: how many physical computers is a system made of?</description>
     </item>
     
     <item>
       <title>Funding</title>
-      <link>https://jzhao.xyz/thoughts/funding/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/funding/</link>
       <pubDate>Fri, 06 Aug 2021 08:42:53 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/funding/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/funding/</guid>
       <description>Raising funding is just purchasing time to be together</description>
     </item>
     
     <item>
       <title>Effective Altruism</title>
-      <link>https://jzhao.xyz/thoughts/effective-altruism/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/effective-altruism/</link>
       <pubDate>Thu, 05 Aug 2021 23:52:21 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/effective-altruism/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/effective-altruism/</guid>
       <description>Very utilitarian, approach that the suffering of a few is okay as long as the greater good benefits?</description>
     </item>
     
     <item>
       <title>Accountability</title>
-      <link>https://jzhao.xyz/thoughts/accountability/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/accountability/</link>
       <pubDate>Thu, 05 Aug 2021 23:27:54 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/accountability/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/accountability/</guid>
       <description>reparations and reconciliation can only occur after both parties have acknowledged it  how does this work if one party &amp;lsquo; ghosts&amp;rsquo; or otherwise leaves the conversation?</description>
     </item>
     
     <item>
       <title>Longevity</title>
-      <link>https://jzhao.xyz/thoughts/longevity/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/longevity/</link>
       <pubDate>Thu, 05 Aug 2021 22:18:30 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/longevity/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/longevity/</guid>
       <description>How much of human existence is just us trying to create impact beyond our incredibly short lifespans?</description>
     </item>
     
     <item>
       <title>Progress</title>
-      <link>https://jzhao.xyz/thoughts/progress/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/progress/</link>
       <pubDate>Tue, 03 Aug 2021 15:26:24 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/progress/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/progress/</guid>
       <description>From 21 Lesson for the 21st Century by Yuval Noah Harari: &amp;ldquo;Did we domesticate wheat or did wheat domesticate us?</description>
     </item>
     
     <item>
       <title>A new DARPA</title>
-      <link>https://jzhao.xyz/thoughts/new-DARPA/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/new-DARPA/</link>
       <pubDate>Sun, 01 Aug 2021 22:10:54 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/new-DARPA/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/new-DARPA/</guid>
       <description>Great hackers tend to clump together (PG, 2004)
   Money is power.</description>
     </item>
     
     <item>
       <title>Memory Palace</title>
-      <link>https://jzhao.xyz/thoughts/memory-palace/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/memory-palace/</link>
       <pubDate>Sat, 31 Jul 2021 21:07:58 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/memory-palace/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/memory-palace/</guid>
       <description>Method of Loci  Source: Method of Loci in Wikipedia</description>
     </item>
     
     <item>
       <title>Tragedy of the Commons</title>
-      <link>https://jzhao.xyz/thoughts/tragedy-of-the-commons/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/tragedy-of-the-commons/</link>
       <pubDate>Wed, 28 Jul 2021 18:59:39 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/tragedy-of-the-commons/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/tragedy-of-the-commons/</guid>
       <description>The more accessible a good is, the less people want to pay for it.</description>
     </item>
     
     <item>
       <title>Public Goods</title>
-      <link>https://jzhao.xyz/thoughts/public-goods/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/public-goods/</link>
       <pubDate>Wed, 28 Jul 2021 18:49:45 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/public-goods/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/public-goods/</guid>
       <description>One important advantage of startups over public goods is the possibility of an exit.</description>
     </item>
     
     <item>
       <title>Social Contracts</title>
-      <link>https://jzhao.xyz/thoughts/social-contracts/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/social-contracts/</link>
       <pubDate>Wed, 28 Jul 2021 18:41:28 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/social-contracts/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/social-contracts/</guid>
       <description>Social contracts are implicit agreements among members of social groups to cooperate for social benefits.</description>
     </item>
     
     <item>
       <title>Web3</title>
-      <link>https://jzhao.xyz/thoughts/web3/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/web3/</link>
       <pubDate>Wed, 28 Jul 2021 17:13:54 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/web3/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/web3/</guid>
       <description>Web3 is the open-source ethic extended beyond code as static artifacts but rather as live organisms.</description>
     </item>
     
     <item>
       <title>Interaction Design</title>
-      <link>https://jzhao.xyz/thoughts/interaction-design/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/interaction-design/</link>
       <pubDate>Sun, 25 Jul 2021 16:47:56 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/interaction-design/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/interaction-design/</guid>
       <description>Source: A Brief Rant On The Future of Interaction Design by Bret Victor</description>
     </item>
     
     <item>
       <title>Originality</title>
-      <link>https://jzhao.xyz/thoughts/originality/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/originality/</link>
       <pubDate>Sun, 25 Jul 2021 12:29:45 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/originality/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/originality/</guid>
       <description>Is anything ever new? Is everything derivative
 Lavoisier once said: &amp;ldquo;Rien ne se perd, rien ne se crée, tout se transforme&amp;rdquo; — meaning &amp;ldquo;Nothing is lost, nothing is created, everything is transformed.</description>
     </item>
     
     <item>
       <title>Group Limits</title>
-      <link>https://jzhao.xyz/thoughts/group-limits/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/group-limits/</link>
       <pubDate>Thu, 22 Jul 2021 20:03:33 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/group-limits/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/group-limits/</guid>
       <description>Related to the evaporative cooling effect. Great example of a group limit is Dunbar&amp;rsquo;s Number</description>
     </item>
     
     <item>
       <title>Digital Commons</title>
-      <link>https://jzhao.xyz/thoughts/digital-commons/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/digital-commons/</link>
       <pubDate>Thu, 15 Jul 2021 17:51:42 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/digital-commons/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/digital-commons/</guid>
       <description>How might we analogize urban planning to social media and digital spaces?</description>
     </item>
     
     <item>
       <title>Communities</title>
-      <link>https://jzhao.xyz/thoughts/communities/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/communities/</link>
       <pubDate>Wed, 14 Jul 2021 15:22:10 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/communities/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/communities/</guid>
       <description>Types of Communities  Interest-based → same interests/passions Location-based → same geographical location, place of work, etc.</description>
     </item>
     
     <item>
       <title>Virtual Worlds</title>
-      <link>https://jzhao.xyz/thoughts/virtual-worlds/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/virtual-worlds/</link>
       <pubDate>Fri, 02 Jul 2021 16:23:05 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/virtual-worlds/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/virtual-worlds/</guid>
       <description>Bridging the real and the virtual  moving away from personal computing  started off with timeshare personal computing now streaming EVERYTHING to the cloud devices will just be viewing places    No matter how hard we try, our virtual selves will inevitably be tethered to our physical selves.</description>
     </item>
     
     <item>
       <title>Mind-Body Problem</title>
-      <link>https://jzhao.xyz/thoughts/mind-body-problem/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/mind-body-problem/</link>
       <pubDate>Fri, 02 Jul 2021 15:43:59 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/mind-body-problem/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/mind-body-problem/</guid>
       <description>Concerned with how the mind and body are connected to one another</description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://jzhao.xyz/thoughts/machine-learning/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/machine-learning/</link>
       <pubDate>Fri, 02 Jul 2021 14:03:17 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/machine-learning/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/machine-learning/</guid>
       <description>GOFAI (good old-fashioned AI)  this view believes that the mind is a computer with certain special characteristics — namely the fact that its internal states and processes can be regarded as thinking or reasoning finding meaning in a body of symbols, like finding rationality in a body of behaviour, is finding a certain kind of consistent, reliable pattern problem solvers often use canny, methodical exploration  neither algorithmic nor random a familiar sort of articulate reasoning or thinking a problem out  &amp;ldquo;if only i could get that, then I could nail this down; but in order to get that, I would need such and such&amp;rdquo;     GOFAI is very narrow-minded and vulnerable to unexpected variations and oddities in the problems and information they were given grounded in the possibility of translation — semantic interpretation  NFAI (new-fangled AI)  falls under connectionism and connectionist networks  relies on computers the same way a weather service does, to simulate digitally systems that are not in themselves digital   adept at finding various sort of similarities among patterns, at recognizing repeated (or almost repeated) patterns and filling in missing parts of incomplete patterns NFAI learns from examples (but not in the same way humans do) inspired by the structure of the brain, but more deeply, by the importance and ubiquity of non-formal pattern reasoning very grab-bag term → anything that isn&amp;rsquo;t GOFAI argument that a lot of human intelligence is not embodied in anyone, its a part of the world: Extended Mind Hypothesis e.</description>
     </item>
     
     <item>
       <title>Frame Problem</title>
-      <link>https://jzhao.xyz/thoughts/frame-problem/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/frame-problem/</link>
       <pubDate>Fri, 02 Jul 2021 13:36:14 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/frame-problem/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/frame-problem/</guid>
       <description>Intelligence is (at least partly) a matter of using well what you know.</description>
     </item>
     
     <item>
       <title>Can Machines Think?</title>
-      <link>https://jzhao.xyz/thoughts/intelligence/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/intelligence/</link>
       <pubDate>Fri, 02 Jul 2021 13:29:33 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/intelligence/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/intelligence/</guid>
       <description>Intelligence as a measure of information conversation ratio. How do we test intelligence of machines vs humans?</description>
     </item>
     
     <item>
       <title>Extended Mind Hypothesis</title>
-      <link>https://jzhao.xyz/thoughts/Extended-Mind-Hypothesis/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Extended-Mind-Hypothesis/</link>
       <pubDate>Fri, 02 Jul 2021 13:18:45 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Extended-Mind-Hypothesis/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Extended-Mind-Hypothesis/</guid>
       <description>Extended view of the mind  not an internal control system, enclosed in the human body, receiving data from human sensory system and directing human action instead, as systems that extend far beyond the body of the human organism, systems that include extra-somatic resources: environmental fuels for adaptive action suggest that human cognitive systems include those resources that are importantly, robustly, reliably, or persistently supportive of decisions making  Environmentally Supported Cognition  derives from niche construction, helps to emphasize the active role of the agent in explaining the adaptive fit of agent and environment over time, agents adapt to environments but also adapt their environment to them ( Theory of Niche Construction)  &amp;ldquo;Animals construct nests, burrows and dams, thus protecting themselves from predators and from the violence of the world.</description>
     </item>
     
     <item>
       <title>Fault Tolerance</title>
-      <link>https://jzhao.xyz/thoughts/fault-tolerance/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/fault-tolerance/</link>
       <pubDate>Wed, 23 Jun 2021 15:14:28 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/fault-tolerance/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/fault-tolerance/</guid>
       <description>How do we defend against attacks in distributed systems with no central authority?</description>
     </item>
     
     <item>
       <title>Creation vs Maintenance</title>
-      <link>https://jzhao.xyz/thoughts/creation-vs-maintenance/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/creation-vs-maintenance/</link>
       <pubDate>Wed, 23 Jun 2021 15:07:59 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/creation-vs-maintenance/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/creation-vs-maintenance/</guid>
       <description>So much of today&amp;rsquo;s society revolves around creating new things rather than maintaining existing things.</description>
     </item>
     
     <item>
       <title>Research Debt</title>
-      <link>https://jzhao.xyz/thoughts/research-debt/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/research-debt/</link>
       <pubDate>Fri, 18 Jun 2021 17:34:11 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/research-debt/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/research-debt/</guid>
       <description>Source: Research Debt in Distill Pub
 Partly works because we can utilize collaborative thinking.</description>
     </item>
     
     <item>
       <title>Academia</title>
-      <link>https://jzhao.xyz/thoughts/academia/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/academia/</link>
       <pubDate>Fri, 18 Jun 2021 10:13:33 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/academia/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/academia/</guid>
       <description>The &amp;lsquo;rat race&amp;rsquo;  There is no mechanism today, other than time, donations, and personal social platforms, for researchers to support other researchers&amp;rsquo; work.</description>
     </item>
     
     <item>
       <title>Exploit Explore Problem</title>
-      <link>https://jzhao.xyz/thoughts/exploit-explore/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/exploit-explore/</link>
       <pubDate>Wed, 16 Jun 2021 23:32:09 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/exploit-explore/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/exploit-explore/</guid>
       <description>Saying yes requires saying no
  Machine learning  Source: Intro to Reinforcement Learning: The Explore-Exploit Dilemma</description>
     </item>
     
     <item>
       <title>Cities and Programming</title>
-      <link>https://jzhao.xyz/thoughts/Cities-and-Programming/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Cities-and-Programming/</link>
       <pubDate>Thu, 17 Jun 2021 00:53:30 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Cities-and-Programming/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Cities-and-Programming/</guid>
       <description>Source: On architecture, urban planning and software construction by Tomas Petricek</description>
     </item>
     
     <item>
       <title>Attention Economy</title>
-      <link>https://jzhao.xyz/thoughts/attention-economy/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/attention-economy/</link>
       <pubDate>Thu, 17 Jun 2021 00:27:02 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/attention-economy/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/attention-economy/</guid>
       <description>As a commodity Attention as a commodity, it is increasingly competitive to compete for everyone&amp;rsquo;s attention</description>
     </item>
     
     <item>
       <title>Emergent Behaviour</title>
-      <link>https://jzhao.xyz/thoughts/emergent-behaviour/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/emergent-behaviour/</link>
       <pubDate>Thu, 17 Jun 2021 00:21:11 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/emergent-behaviour/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/emergent-behaviour/</guid>
       <description>How complex behaviour can arise out of seemingly simple rules? Is there anything special that causes emergent behaviour?</description>
     </item>
     
     <item>
       <title>Ephemereal and Real-time Content</title>
-      <link>https://jzhao.xyz/thoughts/ephemereal-content/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/ephemereal-content/</link>
       <pubDate>Wed, 16 Jun 2021 13:15:09 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/ephemereal-content/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/ephemereal-content/</guid>
       <description>One of the things that keeps face-to-face friendships strong is the nature of shared experience: you laugh together; you dance together; you gape at the hot-dog eaters on Coney Island together.</description>
     </item>
     
     <item>
       <title>Infrastructure</title>
-      <link>https://jzhao.xyz/thoughts/infrastructure/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/infrastructure/</link>
       <pubDate>Wed, 16 Jun 2021 13:15:09 -0700</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/infrastructure/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/infrastructure/</guid>
       <description>Infrastructure should be
  Embedded: Infrastructure is &amp;ldquo;sunk&amp;rdquo; into, inside of, other structures, social arrangements and technologies Transparent: Infrastructure is transparent to use, in the sense that it does not have to be reinvented each time or assembled for each task, but invisibly supports those tasks.</description>
     </item>
     
     <item>
       <title>Social Graphs</title>
-      <link>https://jzhao.xyz/thoughts/social-graphs/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/social-graphs/</link>
       <pubDate>Wed, 16 Jun 2021 09:05:37 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/social-graphs/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/social-graphs/</guid>
       <description>Questions  How do social graphs work if users are pseudonymous?</description>
     </item>
     
     <item>
       <title>Introductions</title>
-      <link>https://jzhao.xyz/thoughts/introductions/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/introductions/</link>
       <pubDate>Sat, 05 Jun 2021 19:47:49 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/introductions/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/introductions/</guid>
       <description>why i always dislike introductions
  apply labels to things too early people have expectations (oh so you&amp;rsquo;re an artist?</description>
     </item>
     
     <item>
       <title>Digital Permanence</title>
-      <link>https://jzhao.xyz/thoughts/digital-permanence/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/digital-permanence/</link>
       <pubDate>Sun, 09 May 2021 17:39:37 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/digital-permanence/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/digital-permanence/</guid>
       <description>Once you share something, you can&amp;rsquo;t unshare it, the internet feels intractable.</description>
     </item>
     
     <item>
       <title>Labels and Quantization</title>
-      <link>https://jzhao.xyz/thoughts/quantization/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/quantization/</link>
       <pubDate>Tue, 04 May 2021 22:22:23 -0400</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/quantization/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/quantization/</guid>
       <description>&amp;ldquo;Where is the knowledge we have lost in the information?</description>
     </item>
     
     <item>
       <title>Value Setting</title>
-      <link>https://jzhao.xyz/thoughts/value-setting/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/value-setting/</link>
       <pubDate>Thu, 11 Mar 2021 13:31:11 -0800</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/value-setting/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/value-setting/</guid>
       <description>&amp;ldquo;I’ve noticed that many people compete in games they don’t understand because they are modeling the behavior of people around them.</description>
     </item>
     
     <item>
       <title>Hackathons</title>
-      <link>https://jzhao.xyz/thoughts/hackathons/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/hackathons/</link>
       <pubDate>Sat, 27 Feb 2021 12:01:16 -0800</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/hackathons/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/hackathons/</guid>
       <description>Full Post
 Discussion  &amp;ldquo;I want hackathons to embody a starting point not a set timeframe&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>https://jzhao.xyz/thoughts/reading/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/reading/</link>
       <pubDate>Sat, 27 Feb 2021 11:59:49 -0800</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/reading/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/reading/</guid>
       <description>getting back into reading Books, with some effort, can help you learn to walk, but only people can help you orient where to walk.</description>
     </item>
     
     <item>
       <title>Move Fast and Break Things</title>
-      <link>https://jzhao.xyz/thoughts/move-fast-and-break-things/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/move-fast-and-break-things/</link>
       <pubDate>Sat, 27 Feb 2021 11:59:22 -0800</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/move-fast-and-break-things/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/move-fast-and-break-things/</guid>
       <description>To slow down is to end up default dead; the rhythm and pace of how technology is supposed to be built does not allow for consideration of social consequences.</description>
     </item>
     

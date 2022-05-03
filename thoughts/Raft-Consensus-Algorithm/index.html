@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,9 +444,9 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/seed/">Seed</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/seed/">Seed</a></li>
     
-    <li><a href="https://jzhao.xyz/tags/technical/">Technical</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/technical/">Technical</a></li>
     
 </ul>
 
@@ -639,7 +639,7 @@ if (!doNotTrack) {
 
 
 <blockquote>
-<p>An understandable <a href="/thoughts/consensus" rel="noopener" class="internal-link" data-src="/thoughts/consensus">consensus</a> algorithm.</p>
+<p>An understandable <a href="/www/thoughts/consensus" rel="noopener" class="internal-link" data-src="/www/thoughts/consensus">consensus</a> algorithm.</p>
 </blockquote>
 <p>A distilled version of the 
 
@@ -654,14 +654,14 @@ if (!doNotTrack) {
 <p>Generally, this is done using a log of actions that are <em>replicated</em> across all machines. Keeping this replicated log consistent between all the machines is the job of the <em>consensus algorithm</em>. They allow a collection of machines to agree on some shared state which still make sense even when there is latency or unavailability.</p>
 <p>In more formal language, consensus algorithms should typically have the following properties:</p>
 <ol>
-<li>Safety in the face of network delays, partitions, packet loss, duplication, and reordering (except under certain cases where there are no known solutions, e.g. <a href="/thoughts/fault-tolerance#Byzantine Faults" rel="noopener" class="internal-link" data-src="/thoughts/fault-tolerance">Byzantine Faults</a>)</li>
+<li>Safety in the face of network delays, partitions, packet loss, duplication, and reordering (except under certain cases where there are no known solutions, e.g. <a href="/www/thoughts/fault-tolerance#Byzantine Faults" rel="noopener" class="internal-link" data-src="/www/thoughts/fault-tolerance">Byzantine Faults</a>)</li>
 <li>Functional (available) as long as the majority of servers are operational and can communicate</li>
 <li>Latency resilient and does not depend on timing of messages to ensure consistency</li>
 </ol>
 <p>Raft is one such consensus algorithm for managing a replicated log. It is an alternative to 
 
 <a href="https://en.wikipedia.org/wiki/Paxos_%28computer_science%29" rel="noopener">Paxos</a> which is the main consensus algorithm in use over the last decade. The main aim is to make it <em>understandable</em> to builders and students alike.</p>
-<p>It is important to note that Raft assumes that all messages have been authenticated/authourized. It hands this responsibility to the <a href="/thoughts/Transport-Layer" rel="noopener" class="internal-link" data-src="/thoughts/Transport-Layer">transport layer</a> to deal with. As such, Raft <em>does not have any protection against malicious actors</em>. More discussion in this 
+<p>It is important to note that Raft assumes that all messages have been authenticated/authourized. It hands this responsibility to the <a href="/www/thoughts/Transport-Layer" rel="noopener" class="internal-link" data-src="/www/thoughts/Transport-Layer">transport layer</a> to deal with. As such, Raft <em>does not have any protection against malicious actors</em>. More discussion in this 
 
 <a href="https://groups.google.com/g/raft-dev/c/8WIrWfzIkvM" rel="noopener">Google Groups conversation</a>.</p>
 <a href="#consensus"><h2 id="consensus"><span class="hanchor" ariaLabel="Anchor"># </span>Consensus</h2></a>
@@ -679,12 +679,12 @@ if (!doNotTrack) {
 <li>Candidate: used to elect a new leader</li>
 </ol>
 <p>State transitions follow the state diagram below:
-<img src="/thoughts/images/raft-state-diagram.png" title="/thoughts/images/raft-state-diagram.png"></p>
+<img src="/www/thoughts/images/raft-state-diagram.png" title="/www/thoughts/images/raft-state-diagram.png"></p>
 <p>All Raft servers communicate using remote procedure calls (RPCs) that happen over the network. The basis consensus algorithm only requires 2 types of RPCs, RequestVote and Append-Entries. These are retried if a request times out and are issued in parallel for best performance.</p>
 <a href="#leader-election"><h2 id="leader-election"><span class="hanchor" ariaLabel="Anchor"># </span>Leader Election</h2></a>
 <p>Leaders are active for <em>terms</em> of arbitrary length (this is randomly determined as we will see later). These are numbered with consecutive and monotonically increasing integers.</p>
 <p>Each term begins with an election in which one or more candidates attempt to become leader. If a candidate wins the election, then it serves as leader for the rest of the term.</p>
-<p><img src="/thoughts/images/raft-elections.png" title="/thoughts/images/raft-elections.png"></p>
+<p><img src="/www/thoughts/images/raft-elections.png" title="/www/thoughts/images/raft-elections.png"></p>
 <a href="#initiate-state"><h3 id="initiate-state"><span class="hanchor" ariaLabel="Anchor"># </span>Initiate State</h3></a>
 <p>Servers start up in the follower state.</p>
 <p>A server remains in the follower state as long as it receives valid RPCs from a leader or candidate (this is usually in the form of a &lsquo;heartbeat&rsquo; from a leader which is an empty AppendEntries RPC with no log entries).</p>
@@ -970,7 +970,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/Raft-Consensus-Algorithm"
+  const curPage = "/www/thoughts/Raft-Consensus-Algorithm"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -1105,7 +1105,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

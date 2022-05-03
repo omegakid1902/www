@@ -295,7 +295,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -409,7 +409,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -443,9 +443,9 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/seed/">Seed</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/seed/">Seed</a></li>
     
-    <li><a href="https://jzhao.xyz/tags/PHIL451A/">PHIL451A</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/PHIL451A/">PHIL451A</a></li>
     
 </ul>
 
@@ -515,8 +515,8 @@ if (!doNotTrack) {
 <p>Monism holds that ultimate reality is <em>all of one kind and one kind only</em>.</p>
 <p>More familiar forms of monism:</p>
 <ul>
-<li><a href="/thoughts/idealism" rel="noopener" class="internal-link" data-src="/thoughts/idealism">Idealism</a></li>
-<li><a href="/thoughts/Materialism" rel="noopener" class="internal-link" data-src="/thoughts/Materialism">Materialism</a></li>
+<li><a href="/www/thoughts/idealism" rel="noopener" class="internal-link" data-src="/www/thoughts/idealism">Idealism</a></li>
+<li><a href="/www/thoughts/Materialism" rel="noopener" class="internal-link" data-src="/www/thoughts/Materialism">Materialism</a></li>
 </ul>
 <a href="#neutral-monism"><h2 id="neutral-monism"><span class="hanchor" ariaLabel="Anchor"># </span>Neutral Monism</h2></a>
 <p>The intrinsic nature of ultimate reality is neither mental nor physical (between idealism and materialism)</p>
@@ -561,7 +561,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/monism"
+  const curPage = "/www/thoughts/monism"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -696,7 +696,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

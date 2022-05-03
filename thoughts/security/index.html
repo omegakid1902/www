@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,9 +444,9 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/seed/">Seed</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/seed/">Seed</a></li>
     
-    <li><a href="https://jzhao.xyz/tags/CPSC317/">CPSC317</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/CPSC317/">CPSC317</a></li>
     
 </ul>
 
@@ -565,13 +565,13 @@ if (!doNotTrack) {
 
 <a href="/thoughts/game-theory" rel="noopener" class="internal-link" data-src="/thoughts/game-theory">game theory</a>.</p>
 <a href="#internet"><h2 id="internet"><span class="hanchor" ariaLabel="Anchor"># </span>Internet</h2></a>
-<p>On security in <a href="/thoughts/internet-computing" rel="noopener" class="internal-link" data-src="/thoughts/internet-computing">the internet</a></p>
+<p>On security in <a href="/www/thoughts/internet-computing" rel="noopener" class="internal-link" data-src="/www/thoughts/internet-computing">the internet</a></p>
 <p>Main excuse: &ldquo;when $x$ was designed, there were only a few players and they all know and trusted each other&rdquo;</p>
 <blockquote>
 <p>&ldquo;Secure&rdquo; web servers are the equivalent of heavy armoured cars. The problem is, they are being used to transfer rolls of coins and checks written in crayon by people on park benches to merchants doing business in cardboard boxes from beneath highway bridges. Further, the roads are subject to random detours, anyone with a screwdriver can control the traffic lights, and there are no police. &ndash; Garfinkel, Spafford, &ldquo;Web Security and Commerce&rdquo;</p>
 </blockquote>
 <p>A lot of the internet is based on good faith and relying on users to be good actors</p>
-<p>What level of the <a href="/thoughts/internet-computing" rel="noopener" class="internal-link" data-src="/thoughts/internet-computing">internet computing stack</a> should be responsible for security? Options:</p>
+<p>What level of the <a href="/www/thoughts/internet-computing" rel="noopener" class="internal-link" data-src="/www/thoughts/internet-computing">internet computing stack</a> should be responsible for security? Options:</p>
 <ul>
 <li>New network-layer protocol</li>
 <li>New transport-layer protocol</li>
@@ -598,7 +598,7 @@ if (!doNotTrack) {
 </li>
 </ul>
 </li>
-<li>Given that Trudy can see all the data, how do we provide confidentiality? <a href="/thoughts/encryption" rel="noopener" class="internal-link" data-src="/thoughts/encryption">Encryption</a>!</li>
+<li>Given that Trudy can see all the data, how do we provide confidentiality? <a href="/www/thoughts/encryption" rel="noopener" class="internal-link" data-src="/www/thoughts/encryption">Encryption</a>!</li>
 </ul>
 <a href="#symmetric-key-cryptography"><h2 id="symmetric-key-cryptography"><span class="hanchor" ariaLabel="Anchor"># </span>Symmetric Key Cryptography</h2></a>
 <ul>
@@ -746,7 +746,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/security"
+  const curPage = "/www/thoughts/security"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -881,7 +881,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

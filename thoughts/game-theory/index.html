@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,7 +444,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/sapling/">Sapling</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/sapling/">Sapling</a></li>
     
 </ul>
 
@@ -542,9 +542,9 @@ if (!doNotTrack) {
 
 <a href="/thoughts/game-design" rel="noopener" class="internal-link" data-src="/thoughts/game-design">game design</a></p>
 <a href="#bartle-taxonomy-of-player-types"><h2 id="bartle-taxonomy-of-player-types"><span class="hanchor" ariaLabel="Anchor"># </span>Bartle Taxonomy of Player Types</h2></a>
-<p>See also <a href="/thoughts/evaporative-cooling#Geeks MOPs and sociopaths in subculture evolution" rel="noopener" class="internal-link" data-src="/thoughts/evaporative-cooling">Geeks, Mops, and sociopaths</a></p>
+<p>See also <a href="/www/thoughts/evaporative-cooling#Geeks MOPs and sociopaths in subculture evolution" rel="noopener" class="internal-link" data-src="/www/thoughts/evaporative-cooling">Geeks, Mops, and sociopaths</a></p>
 <p>A classification of types of actors in video games based on character theory</p>
-<p><img src="/thoughts/images/Bartle taxonomy of player types.png" title="/thoughts/images/Bartle taxonomy of player types.png"></p>
+<p><img src="/www/thoughts/images/Bartle taxonomy of player types.png" title="/www/thoughts/images/Bartle taxonomy of player types.png"></p>
 <ol>
 <li>Achievers: prefer to optimize metrics or other concrete measurements of &lsquo;succeeding&rsquo; in a game
 <ol>
@@ -631,7 +631,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/game-theory"
+  const curPage = "/www/thoughts/game-theory"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -766,7 +766,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

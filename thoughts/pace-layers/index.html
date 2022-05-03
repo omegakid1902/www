@@ -295,7 +295,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -409,7 +409,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -443,7 +443,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/fruit/">Fruit</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/fruit/">Fruit</a></li>
     
 </ul>
 
@@ -514,7 +514,7 @@ if (!doNotTrack) {
 
 <img src="/thoughts/images/pace-layers.png" alt="Pace Layers image from Stewart Brand in The Clock of the Long Now"  /><em>The order of civilization. The whole combines learning with continuity.</em></p>
 <p>Coined by Stewart Brand in 1999.</p>
-<p>See: <a href="/thoughts/Mangrove-Theory-of-the-Internet" rel="noopener" class="internal-link" data-src="/thoughts/Mangrove-Theory-of-the-Internet">Mangrove Theory of the Internet</a>, <a href="/thoughts/Bentoism" rel="noopener" class="internal-link" data-src="/thoughts/Bentoism">Cross-time-scale planning (Bentoism)</a></p>
+<p>See: <a href="/www/thoughts/Mangrove-Theory-of-the-Internet" rel="noopener" class="internal-link" data-src="/www/thoughts/Mangrove-Theory-of-the-Internet">Mangrove Theory of the Internet</a>, <a href="/www/thoughts/Bentoism" rel="noopener" class="internal-link" data-src="/www/thoughts/Bentoism">Cross-time-scale planning (Bentoism)</a></p>
 <p>You can&rsquo;t have a healthy forest of all old-growth and towering canopies. You can&rsquo;t have a healthy forest of only weeds, bushes, and saplings.</p>
 <p>Diversity is resilience.</p>
 <p>All complex systems have different &lsquo;paces&rsquo; at which they operate. Some near the top are faster changing, learning with the trends and the movements of the day to day, others are slow and methodical, remembering and holding power.</p>
@@ -608,7 +608,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/pace-layers"
+  const curPage = "/www/thoughts/pace-layers"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -743,7 +743,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

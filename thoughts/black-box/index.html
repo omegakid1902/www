@@ -296,7 +296,7 @@ if (!doNotTrack) {
     }
 
     const redir = (id, term) => {
-      window.location.href = "https:\/\/jzhao.xyz\/" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
+      window.location.href = "https:\/\/omegakid1902.github.io\/www" + `${id}#:~:text=${encodeURIComponent(term)}` + '/'
     }
 
     const formatForDisplay = id => ({
@@ -410,7 +410,7 @@ if (!doNotTrack) {
 <div class="singlePage">
     
     <header>
-        <h1 id="page-title"><a href="https://jzhao.xyz/">jzhao.xyz</a></h1>
+        <h1 id="page-title"><a href="https://omegakid1902.github.io/www">jzhao.xyz</a></h1>
       <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
       <div class="spacer"></div>
       <div class='darkmode'>
@@ -444,7 +444,7 @@ if (!doNotTrack) {
       </p>
       <ul class="tags">
     
-    <li><a href="https://jzhao.xyz/tags/sapling/">Sapling</a></li>
+    <li><a href="https://omegakid1902.github.io/www/tags/sapling/">Sapling</a></li>
     
 </ul>
 
@@ -564,7 +564,7 @@ if (!doNotTrack) {
 
 
 
-<p>See also: <a href="/thoughts/paperclip-optimizer" rel="noopener" class="internal-link" data-src="/thoughts/paperclip-optimizer">paperclip optimizer</a></p>
+<p>See also: <a href="/www/thoughts/paperclip-optimizer" rel="noopener" class="internal-link" data-src="/www/thoughts/paperclip-optimizer">paperclip optimizer</a></p>
 <blockquote>
 <p>Scientific and technical work is made invisible by its own success. When a machine runs efficiently, one need only to focus on its inputs and outputs and not on its internal complexity. Thus, paradoxically, the more science and technology succeed, the more opaque and obscure they become</p>
 </blockquote>
@@ -583,11 +583,11 @@ if (!doNotTrack) {
 <a href="/thoughts/infrastructure" rel="noopener" class="internal-link" data-src="/thoughts/infrastructure">infrastructure</a></em> that saves a lot of this repetitive work.</p>
 <a href="#computational-reliabilism-cr"><h2 id="computational-reliabilism-cr"><span class="hanchor" ariaLabel="Anchor"># </span>Computational Reliabilism (CR)</h2></a>
 <p><em>Who is afraid of black box algorithms? On the epistemological and ethical basis of trust in medical AI</em> by Juan Manuel Durán, Karin Rolanda Jongsma</p>
-<p>On <a href="/thoughts/trust" rel="noopener" class="internal-link" data-src="/thoughts/trust">trust</a> in black box algorithmic decision making systems</p>
-<p>Black boxes are algorithms that humans cannot survey: they are <a href="/thoughts/epistemology" rel="noopener" class="internal-link" data-src="/thoughts/epistemology">epistemically opaque</a> systems that no human or group of humans can closely examine in order to determine its inner states. Physicians have a hard time offering accounts of how the algorithm came to its recommendation or diagnosis</p>
+<p>On <a href="/www/thoughts/trust" rel="noopener" class="internal-link" data-src="/www/thoughts/trust">trust</a> in black box algorithmic decision making systems</p>
+<p>Black boxes are algorithms that humans cannot survey: they are <a href="/www/thoughts/epistemology" rel="noopener" class="internal-link" data-src="/www/thoughts/epistemology">epistemically opaque</a> systems that no human or group of humans can closely examine in order to determine its inner states. Physicians have a hard time offering accounts of how the algorithm came to its recommendation or diagnosis</p>
 <p>Terms:</p>
 <ul>
-<li><a href="/thoughts/transparency" rel="noopener" class="internal-link" data-src="/thoughts/transparency">transparency</a>: algorithmic procedures that make the inner workings of a block box algorithm interpretable to humans
+<li><a href="/www/thoughts/transparency" rel="noopener" class="internal-link" data-src="/www/thoughts/transparency">transparency</a>: algorithmic procedures that make the inner workings of a block box algorithm interpretable to humans
 <ul>
 <li>transparency is an epistemic manoeuvre intended to offer reasons to believe that certain algorithmic procedures render a reliable output and that the output of the algorithm is interpretable by humans</li>
 </ul>
@@ -687,7 +687,7 @@ if (!doNotTrack) {
 <script>
 async function run() {
   const { index, links, content } = await fetchData
-  const curPage = "/thoughts/black-box"
+  const curPage = "/www/thoughts/black-box"
   const pathColors = [{"/moc":"#4388cc"}]
   let depth =  1 
 
@@ -822,7 +822,7 @@ async function run() {
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
-      window.location.href = "https://jzhao.xyz/" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
+      window.location.href = "https://omegakid1902.github.io/www" + decodeURI(d.id).replace(/[\s_]+/g, '-') + '/'
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node")

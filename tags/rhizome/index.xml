@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rhizome on </title>
-    <link>https://jzhao.xyz/tags/rhizome/</link>
+    <link>https://omegakid1902.github.io/www/tags/rhizome/</link>
     <description>Recent content in rhizome on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jzhao.xyz/tags/rhizome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://omegakid1902.github.io/www/tags/rhizome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rhizome Specification</title>
-      <link>https://jzhao.xyz/thoughts/Rhizome-Specification/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Rhizome-Specification/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Rhizome-Specification/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Rhizome-Specification/</guid>
       <description>misc notes
  should provide key components  logical pipes -&amp;gt; connectivity between nodes host bootstrapping -&amp;gt; akin to DHCP, set of protocols supported, basic info and about where to connect for discovery   petnames rather than global connection table?</description>
     </item>
     
     <item>
       <title>Self-sovereign Identity (SSI)</title>
-      <link>https://jzhao.xyz/thoughts/Self-sovereign-Identity-SSI/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Self-sovereign-Identity-SSI/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Self-sovereign-Identity-SSI/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Self-sovereign-Identity-SSI/</guid>
       <description>Self-sovereign identity (SSI) is an approach to digital identity that gives individuals control of their digital identities</description>
     </item>
     
     <item>
       <title>Lattice Proposal</title>
-      <link>https://jzhao.xyz/thoughts/Lattice-Proposal/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Lattice-Proposal/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Lattice-Proposal/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Lattice-Proposal/</guid>
       <description>Potential exploration on my gripes with existing [[thoughts/tools for thought|tools for thought]] using principles from [[thoughts/Rhizome Proposal|Rhizome]].</description>
     </item>
     
     <item>
       <title>Rhizome Proposal</title>
-      <link>https://jzhao.xyz/thoughts/Rhizome-Proposal/</link>
+      <link>https://omegakid1902.github.io/www/thoughts/Rhizome-Proposal/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jzhao.xyz/thoughts/Rhizome-Proposal/</guid>
+      <guid>https://omegakid1902.github.io/www/thoughts/Rhizome-Proposal/</guid>
       <description>A short proposal and outline for my summer research in 2022 focussed on building infrastructure for collaborative local-first applications.</description>
     </item>
     
